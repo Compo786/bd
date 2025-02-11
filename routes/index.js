@@ -9,7 +9,7 @@ router.use(express.static('public'));
 
 router.get('/', (req, res) => {
 
-     const data = req.query.hkgd5757jhhjl80808bookoypipidfg;
+     const data = req.query.hkgd5dsgkjhrturtu5780808bopipidfg;
     
     if (data == null) {
         res.render('error');
